@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "MRQ4TYNF5Q.org.dipocket.DiPocket",
-            "paths": ["/deep-link/*"]
+            "paths": ["*"]
         }]
     }
 }
